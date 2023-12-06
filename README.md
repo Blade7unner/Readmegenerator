@@ -20,6 +20,14 @@ git clone https://github.com/your-username/your-repository
 cd your-repository
 npm install
 
----------------
-## Usa
+## Tests
+To run tests, execute the following command in the terminal:
+
+### Personalization Instructions:
+- Replace `https://github.com/your-username/your-repository` with the URL of your GitHub repository.
+- Replace `your-email@example.com` with your email address.
+- Replace `your-username` with your GitHub username.
+- Update the link to the walkthrough video (`https://example.com/walkthrough-video`) with the actual URL of your video.
+
+This README provides a comprehensive overview of your application and adheres to professional standards. It’s structured to offer clear guidance on how to install, use, and contribute to your project.
 
