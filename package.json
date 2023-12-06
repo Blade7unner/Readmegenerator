@@ -1,5 +1,18 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.6"
+  },
+  "name": "readmegenerator",
+  "description": "Node.js Challenge: Professional README Generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Benoit",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Readmegenerator"
   }
 }
