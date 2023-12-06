@@ -1,5 +1,5 @@
-# n/a
-![License Badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
+# TEST
+![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 TEST
@@ -19,7 +19,7 @@ TEST
 TEST
 
 ## License
-This project is licensed under the GPLv3 license.
+This project is licensed under the MIT license.
 
 ## Contributing
 TEST
