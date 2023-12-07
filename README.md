@@ -25,9 +25,7 @@ Run the following command to execute tests: npm test
 
 
 ### Notes:
-- Replace `[your-email@example.com]` with your actual email address.
-- Update the link to the walkthrough video (`https://example.com/walkthrough-video`) 
 
-This README now focuses specifically on installation, usage, tests, questions, and the walkthrough video, making it concise and to the point for your README Generator project.
+- Walkthrough video (`https://drive.google.com/file/d/1JSEawnatSKlenwoGIHJBdqOuF899DdNb/view?usp=sharing`) 
 
 

@@ -1,5 +1,5 @@
 # TEST
-![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description
 TEST
@@ -7,7 +7,7 @@ TEST
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -18,8 +18,7 @@ TEST
 ## Usage
 TEST
 
-## License
-This project is licensed under the MIT license.
+
 
 ## Contributing
 TEST
