@@ -11,11 +11,16 @@ The README Generator is a command-line application that creates professional REA
 
 ## Installation
 To install this application, follow these steps:
-git clone https://github.com/Blade7unner/Readmegenerator
-cd Readmegenerator
-npm install
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Blade7unner/Readmegenerator
 
+   Navigate to the repository directory: cd Readmegenerator
+
+   Install the necessary dependencies: npm install
+
+   
 ## Usage
 After installation, run the application using: node index.js
 
